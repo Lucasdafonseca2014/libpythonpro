@@ -6,6 +6,8 @@ Nesse curso é ensinado como contribuir com projetos de código aberto.
 Link do curso [Python Pro](https://www.python.pro.br/dashboard/)
 
 [![Build Status](https://travis-ci.org/Lucasdafonseca2014/libpythonpro.svg?branch=main)](https://travis-ci.org/Lucasdafonseca2014/libpythonpro)
+[![Updates](https://pyup.io/repos/github/Lucasdafonseca2014/libpythonpro/shield.svg)](https://pyup.io/repos/github/Lucasdafonseca2014/libpythonpro/)
+[![Python 3](https://pyup.io/repos/github/Lucasdafonseca2014/libpythonpro/python-3-shield.svg)](https://pyup.io/repos/github/Lucasdafonseca2014/libpythonpro/)
 
 Suportada versão 3 do Python.
 
