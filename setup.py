@@ -107,7 +107,7 @@ setup(
     version=VERSION,
     description=DESCRIPTION,
     long_description='Tentando publicar no PyPi',
-    long_description_content_type='RST',
+    long_description_content_type='text',
     author=AUTHOR,
     author_email=AUTHOR_EMAIL,
     license=read('LICENSE'),
